@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: https://www.frontendmentor.io/solutions/product-preview-card-component-using-html5-css3-and-flexbox-k1tEGZBI3f
-- Live Site URL: https://teiko21.github.io/Product-Preview-Card-Component2/
+- Live Site URL: https://teiko21.github.io/Product-Preview-Card-Component/
  
 ### Built with
 
