@@ -32,7 +32,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [](https://your-solution-url.com)
-- Live Site URL: [](https://teiko21.github.io/Product-Preview-Card-Component2/)
+- Live Site URL: https://teiko21.github.io/Product-Preview-Card-Component2/
  
 ### Built with
 
