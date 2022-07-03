@@ -27,7 +27,7 @@ Users should be able to:
 
 ### Screenshot
 
-![]screenshot_desktop_version.jpeg
+![][screenshot_desktop_version.jpeg](https://github.com/Teiko21/Product-Preview-Card-Component2/blob/e79dfab02f2cc6f83d3c2623de1ec20fe85b1917/screenshot_desktop_version.jpeg)
 
 ### Links
 
